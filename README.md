@@ -90,13 +90,5 @@ python voicetovoice.py
 ### **3️⃣ Gradio Frontend UI**
 ![Gradio Frontend](images/gradio_ui.png)
 
----
-
-## **🌟 Future Improvements**
-- ✅ **Improve intent recognition** using NLP models.
-- ✅ **Enhance UI** with a chatbot avatar.
-- ✅ **Deploy the chatbot online** for global access.
-
----
 
 
