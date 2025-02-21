@@ -99,6 +99,4 @@ python voicetovoice.py
 
 ---
 
-## **📜 License**
-This project is open-source. Feel free to use and contribute! 🎤🔥
 
